@@ -18,7 +18,7 @@
             <div class="flex flex-col items-center text-center justify-center">
               <h2 class="font-medium title-font mt-4 text-gray-900 dark:text-gray-400 text-lg">أسامة سيد</h2>
               <div class="w-12 h-1 bg-purple-500 rounded mt-2 mb-4"></div>
-              <p class="text-base">+213 782 679 003</p>
+              <p class="text-base">+213 796 795 092</p>
               <p class="text-base">عين طاية - الجـزائر</p>
 
             </div>
@@ -61,7 +61,7 @@
                   </path>
                 </svg>
               </a>
-              <a href="hhttps://instagram.com/oussama_sid36" rel="noopener noreferrer" target="_blank"
+              <a href="https://instagram.com/oussama_sid36" rel="noopener noreferrer" target="_blank"
                 class="ml-6 text-gray-500">
                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                   class="w-5 h-5" viewBox="0 0 24 24">
