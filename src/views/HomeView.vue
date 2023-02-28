@@ -15,7 +15,7 @@
                 src="https://scontent.falg6-1.fna.fbcdn.net/v/t1.6435-1/142707278_932260030851353_4723067606716334235_n.jpg?stp=dst-jpg_s200x200&_nc_cat=100&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeHv6zqiRU8EFXgUXl2vDGg6pFx1jExT3yukXHWMTFPfK2Y-0v8Yx_mMFsg26K0DNJ1O77mWbWw9-dKiegKvPInQ&_nc_ohc=0fsFHoKSmnkAX9y_sdv&_nc_ht=scontent.falg6-1.fna&oh=00_AfCZ9cESFLik30eSqh97PZPdT-x4uf-inG0iecryGA271A&oe=6425BA28"
                 alt="">
             </div>
-            <div class="flex flex-col items-center text-center justify-center">
+            <div class="flex flex-col pb-5 items-center text-center justify-center">
               <h2 class="font-medium title-font mt-4 text-gray-900 dark:text-gray-400 text-lg">أسامة سيد</h2>
               <div class="w-12 h-1 bg-purple-500 rounded mt-2 mb-4"></div>
               <p class="text-base">+213 796 795 092</p>
